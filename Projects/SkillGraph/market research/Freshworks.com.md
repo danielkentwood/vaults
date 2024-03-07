@@ -1,0 +1,1 @@
+* https://www.freshworks.com/hrms/

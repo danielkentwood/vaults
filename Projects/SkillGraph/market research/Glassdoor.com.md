@@ -1,0 +1,1 @@
+* https://www.glassdoor.com/index.htm
