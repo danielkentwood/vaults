@@ -1,0 +1,3 @@
+# isomap
+
+Tags: [[dimensionality reduction]]

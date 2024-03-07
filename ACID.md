@@ -1,0 +1,3 @@
+https://en.wikipedia.org/wiki/ACID
+
+In [[computer science]], **ACID** ([atomicity](https://en.wikipedia.org/wiki/Atomicity_(database_systems) "Atomicity (database systems)"), [consistency](https://en.wikipedia.org/wiki/Consistency_(database_systems) "Consistency (database systems)"), [isolation](https://en.wikipedia.org/wiki/Isolation_(database_systems) "Isolation (database systems)"), [durability](https://en.wikipedia.org/wiki/Durability_(database_systems) "Durability (database systems)")) is a set of properties of [database transactions](https://en.wikipedia.org/wiki/Database_transaction "Database transaction") intended to guarantee data validity despite errors, power failures, and other mishaps.

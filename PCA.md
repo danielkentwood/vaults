@@ -1,0 +1,3 @@
+# PCA
+
+Tags: [[dimensionality reduction]]

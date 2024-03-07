@@ -1,0 +1,5 @@
+[[ç Create a DDL]]
+[[ç Creating a new graph with Aetna data]]
+[[TigerGraph on GCP]]
+[[TigerGraph Resources]]
+[[ç Tutorial on Synthetic Patient Data]]

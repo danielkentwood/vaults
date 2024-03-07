@@ -1,0 +1,4 @@
+- Intuition for matrix multiplication
+    - [http://matrixmultiplication.xyz/](http://matrixmultiplication.xyz/)
+- Transformation matrices (mirroring, scaling, skew, rotation, etc)
+    - [https://code-industry.net/masterpdfeditor-help/transformation-matrix/](https://code-industry.net/masterpdfeditor-help/transformation-matrix/)
